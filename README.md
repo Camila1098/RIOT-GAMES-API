@@ -1,5 +1,5 @@
 # RIOT-GAMES-API
-\nMaria Camila Alvarez Perdomo-164000
+<br>Maria Camila Alvarez Perdomo-164000</br>
 Karen Andrea Gomez Gutierrez-164007
 https://developer.riotgames.com/
 Esta API permite conocer la liga de un invocador, su numero de liga y sus puntos de liga, solo digitando la region del servidor, el nombre de invocador y el API key.
